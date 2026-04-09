@@ -1,3 +1,7 @@
 # merklemap-api-test
-TEST
+## REQUIREMENTS
+REQUIRES MERKLEMAP ACCOUNT
 REQUIRES PAID PLAN
+## HOW-TO
+GET YOUR API KEY AT https://www.merklemap.com/user-profile/api
+GO INTO request.js AND READ THE COMMENTS I PUT THERE FOR INFO
